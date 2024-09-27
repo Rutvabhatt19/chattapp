@@ -37,16 +37,16 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/9469b334-720c-406a-b0cb-0cdb389dcc06" alt="Chat Screen" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/218e4e89-5c4f-4fab-9ef1-0731c1a7fa35" alt="Login Screen" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/9469b334-720c-406a-b0cb-0cdb389dcc06" alt="Login Screen" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/218e4e89-5c4f-4fab-9ef1-0731c1a7fa35" alt="Chat Screen" width="250"></td>
     <td><img src="https://github.com/user-attachments/assets/7f337dad-5e60-4b13-a0e0-cdbd1666fceb" alt="User List" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/8d8316c7-91f6-4a1b-91bd-9c951ced7eb1" alt="Settings Screen" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/8d8316c7-91f6-4a1b-91bd-9c951ced7eb1" alt="Chat Screen" width="250"></td>
   </tr>
   <tr>
     <td align="center">Chat Screen</td>
     <td align="center">Login Screen</td>
     <td align="center">User List</td>
-    <td align="center">Settings Screen</td>
+    <td align="center">Chat Screen</td>
   </tr>
 </table>
 
